@@ -35,3 +35,5 @@ elif sexo == fem:
     else:
         print('\033[1;31mVocê tem risco alto de desenvolver doenças cardiovasculares')
         print('\033[1;31mCUIDE-SE !!!')
+
+print ('\033[1;94m=' * 75)
